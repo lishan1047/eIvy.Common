@@ -2,6 +2,18 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageVersion>1.0</PackageVersion>
+    <Authors>Lishan</Authors>
+    <Copyright>Lishan</Copyright>
+    <NeutralLanguage>en</NeutralLanguage>
+    <PackageLicenseUrl>https://mit-license.org</PackageLicenseUrl>
+    <Owners>Lishan</Owners>
+    <PackageProjectUrl>https://github.com/lishan1047/eIvy.Common</PackageProjectUrl>
+    <PackageReleaseNotes>The simple light cache solution.</PackageReleaseNotes>
+    <Summary>The simple light cache solution.</Summary>
+    <PackageTags>eIvy Common Cache</PackageTags>
+    <Title>eIvy Common Cache</Title>
+    <Description>The simple light cache solution.</Description>
   </PropertyGroup>
 
 </Project>
